@@ -10,6 +10,8 @@ Okay here we go again, react. I will not say much cause i have learned react bef
 
 Welcome back to day 1. Of course i manage to find a way to not study again. Well i got a good reason for it. My thesis is almost done and i have done my final exam. So today i am actually gonna start.
 
+I promise im gonna finish at least 1 hour of the video today.
+
 What i learned:
 
 -
