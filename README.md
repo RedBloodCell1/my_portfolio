@@ -18,3 +18,18 @@ What i learned:
 
 - npm run dev = to start the server
 - Just setting up simple things like and deleting stuff. and learning a little bit about figma developer mode. See you later
+
+Day 2: (1 Hour + ) of study
+
+What i learned:
+
+- Vite uses jsx
+- href with "/" inside will take is to top the page
+- We can put variable for css and use it. Use :root {} and put the variable inside with **--text-color: red** and then we can import it from another css file to use it. This way we can change how the colour should be just from one css variable page without breaking anything
+- After doing standard sizing. We want to make the page responsive
+- Use **@media screen and (max-width: 800px) {}** To simply make a web responsive. So when the page is below 800px, the styling written inside the media screen will be applied
+- I have learned about react before so i understand the use of ? and &&. And i understand a little bit of useState. I cant imagine learning this vid without learning react tutorial beforehand, either way. There is a lot of interesting way to take advantage of useState. For example in this, we can put 2 className using `` and with &&, we can see whether the styles useState variable is false or true. Idk how to explain this so it just looks like i am spouting gibberish but i understand probably around 75% and 100% if i slowly digest it.
+
+CSS:
+
+Lets actually study css. i will write what i know about something with my own sentence. Okay nevermind, im gonna learn about css in css video one day.
