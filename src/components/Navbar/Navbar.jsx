@@ -8,7 +8,7 @@ export const Navbar = () => {
     return (
         <nav className={styles.navbar}>
             <a href="/" className={styles.title}>
-                Portfolio
+                Martin Jason Alfredo
             </a>
             <div className={styles.menu}>
                 <img className={styles.menuBtn} src={menuOpen

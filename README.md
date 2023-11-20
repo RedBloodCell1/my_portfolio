@@ -19,7 +19,7 @@ What i learned:
 - npm run dev = to start the server
 - Just setting up simple things like and deleting stuff. and learning a little bit about figma developer mode. See you later
 
-Day 2: (1 Hour + ) of study
+Day 2: 1 Hour of study
 
 What i learned:
 
@@ -33,3 +33,15 @@ What i learned:
 CSS:
 
 Lets actually study css. i will write what i know about something with my own sentence. Okay nevermind, im gonna learn about css in css video one day.
+
+Day 3: 1 Hour 53 minute of study
+
+Okay at this point idk what im learning xdd. Actually its all just css css css css and css. Well thats how front end works most of the time.
+
+Okay i spent like 30 minutes to try making my image smaller. XDDDDDDDDDDD. i just use padding. thats all. man studying is "fun"
+
+What i learned:
+
+- I learned about animation. You name the animation and use **@keyframes "animation name"** to set the animation up
+
+- I learned about how CSS IS REALLY IMPORTANT TO MAKE A GOOD LOOKING WEBSITE XDDD.
