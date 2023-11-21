@@ -45,3 +45,13 @@ What i learned:
 - I learned about animation. You name the animation and use **@keyframes "animation name"** to set the animation up
 
 - I learned about how CSS IS REALLY IMPORTANT TO MAKE A GOOD LOOKING WEBSITE XDDD.
+
+Day 4: 54 Minutes of study
+
+Okay lets go. I am at my friend house cause the internet on my place is down. I am gonna study for 1 hour.
+
+What i learned:
+
+- Okay, what i learned today is padding with % and px. Use % to make it change according to the size of the screen. Well its something small but well i learn something
+
+- Another thing is. ITS ALL CSS ASDJKASDJLKAJSD

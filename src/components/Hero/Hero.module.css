@@ -52,10 +52,9 @@
 
 .heroImg {
   position: relative;
-  display: inline-block;
   width: 50%;
   z-index: 1;
-  padding: 120px; /* Adjust the padding value as needed */
+  padding: 5%;
 
   animation-name: floating;
   animation-duration: 3s;
