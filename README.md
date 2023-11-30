@@ -56,7 +56,7 @@ What i learned:
 
 - Another thing is. ITS ALL CSS ASDJKASDJLKAJSD
 
-Day 5:
+Day 5: 1 Hours 5 minute of study
 
 Yo long time no see. I have been dealing with some work stuff. Well i got a job and i need to finish this porto at least until i deploy it. I promise to myself i need to at least show my friend this month. So lets deploy it today.
 
