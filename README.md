@@ -62,4 +62,6 @@ Yo long time no see. I have been dealing with some work stuff. Well i got a job 
 
 What i learned:
 
--
+- I learned about deploying. npm run build. and then just put it on netlify. Or if i want some new domain well just pay for it
+
+So yeah i finished almost everything. Just need to put my actual stuff in. See you later guys.
