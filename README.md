@@ -55,3 +55,11 @@ What i learned:
 - Okay, what i learned today is padding with % and px. Use % to make it change according to the size of the screen. Well its something small but well i learn something
 
 - Another thing is. ITS ALL CSS ASDJKASDJLKAJSD
+
+Day 5:
+
+Yo long time no see. I have been dealing with some work stuff. Well i got a job and i need to finish this porto at least until i deploy it. I promise to myself i need to at least show my friend this month. So lets deploy it today.
+
+What i learned:
+
+-
